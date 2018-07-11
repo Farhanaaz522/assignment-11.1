@@ -9,7 +9,7 @@
 #Answers
 #a),b),c)
 #reading the dataset
-#using iris dataset
+#using iris dataset(as i am not able to work on the given dataset
 
 data.iris= read.csv("D:/acadgild/iris.csv") # read iris dataset
 
